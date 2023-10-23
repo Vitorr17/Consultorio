@@ -16,3 +16,21 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+
+
+.botao{
+    margin-top: 10px;
+    border-radius: 10px;
+    width:70px;
+    background-color: blue;
+    color: white;
+}
+.ligue{
+    margin-left:700px;
+    margin-top: -300px;
+}
+
+.label {
+    margin-left: 100px;
+}

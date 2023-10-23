@@ -18,7 +18,7 @@ namespace consutorio.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult contato()
         {
             return View();
         }
