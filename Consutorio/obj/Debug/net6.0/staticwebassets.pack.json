@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "W:\\users\\vitor.spereira9\\Documents\\ASP\\Consutorio\\consutorio\\wwwroot\\img\\consultorio.jpg",
+      "PackagePath": "staticwebassets\\img\\consultorio.jpg"
+    },
+    {
       "Id": "W:\\users\\vitor.spereira9\\Documents\\ASP\\Consutorio\\consutorio\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
