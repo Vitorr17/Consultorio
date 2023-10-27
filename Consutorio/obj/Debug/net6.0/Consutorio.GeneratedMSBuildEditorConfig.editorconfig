@@ -40,6 +40,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[W:/users/vitor.spereira9/Documents/ASP/Consutorio/consutorio/Views/Consultas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/vitor.spereira9/Documents/ASP/Consutorio/consutorio/Views/Consultas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/vitor.spereira9/Documents/ASP/Consutorio/consutorio/Views/Consultas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/vitor.spereira9/Documents/ASP/Consutorio/consutorio/Views/Consultas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/vitor.spereira9/Documents/ASP/Consutorio/consutorio/Views/Consultas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [W:/users/vitor.spereira9/Documents/ASP/Consutorio/consutorio/Views/Home/Consultorio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25zdWx0b3Jpby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
